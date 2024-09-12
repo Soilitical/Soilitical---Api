@@ -48,8 +48,9 @@ Soilitical's API provides endpoints for interacting with our machine learning mo
 
 ```http
 Content-Type: application/json
-
+```
 # **Body:**
+```json
 {
     "N": 42,
     "P": 55,
