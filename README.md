@@ -34,7 +34,7 @@ Soilitical's API provides endpoints for interacting with our machine learning mo
         ]
     }
 }
-
+```
 
 ### 2. Make Prediction
 
@@ -58,12 +58,15 @@ Content-Type: application/json
     "Temp": 35,
     "PH": 7
 }
+```
 
 ### Example Request: POST https://apisoilitical.pythonanywhere.com/predict
 
-### Example Response: {
+### Example Response: 
+```json
+{
     "prediction": "class1"
-}
+}```
 
 
 
