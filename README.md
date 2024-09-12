@@ -44,7 +44,7 @@ Soilitical's API provides endpoints for interacting with our machine learning mo
 
 **Request Format:**
 
-- **Headers:**
+***Headers:***
 
 ```http
 Content-Type: application/json
