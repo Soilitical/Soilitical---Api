@@ -67,7 +67,8 @@ Content-Type: application/json
 ```json
 {
     "prediction": "class1"
-}```
+}
+```
 
 
 
