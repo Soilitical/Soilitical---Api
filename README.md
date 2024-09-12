@@ -66,7 +66,7 @@ Content-Type: application/json
 ### Example Response: 
 ```json
 {
-    "prediction": "class1"
+    "prediction": "FavaBean"
 }
 ```
 
